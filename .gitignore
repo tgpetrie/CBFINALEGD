@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Node
+frontend/node_modules/
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Build
+frontend/dist/
+frontend/.vite/
+/dist/
+/build/
+
+# Tailwind
+*.css.map
+
+# Ignore time-stamped backup CSS
+frontend/src/index_*.css
+
+# OS junk files
+Thumbs.db
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo

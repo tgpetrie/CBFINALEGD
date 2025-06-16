@@ -1,0 +1,12 @@
+# Python requirements for CBMo4ers project (frontend/backend separation)
+
+# Backend dependencies
+flask
+flask-cors
+flask-socketio
+python-socketio
+python-dotenv
+requests
+websocket-client
+gunicorn
+eventlet
